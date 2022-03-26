@@ -9,7 +9,7 @@ class SunnyWeatherApplication:Application() {
     companion object{
         @SuppressLint("StartFieldLeak")
         lateinit var context: Context
-        const val TOKEN = "Jw6KstoUnIuSZqhr"
+        const val TOKEN = "IbxcHZ0d74RhJ2gv"
     }
 
     override fun onCreate() {
